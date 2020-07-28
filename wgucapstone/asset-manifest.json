@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wgucapstone/static/css/main.10559651.chunk.css",
+    "main.js": "/wgucapstone/static/js/main.10ecdef9.chunk.js",
+    "main.js.map": "/wgucapstone/static/js/main.10ecdef9.chunk.js.map",
+    "runtime-main.js": "/wgucapstone/static/js/runtime-main.ae7bc8fd.js",
+    "runtime-main.js.map": "/wgucapstone/static/js/runtime-main.ae7bc8fd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/wgucapstone/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b3619667.chunk.js": "/wgucapstone/static/js/2.b3619667.chunk.js",
+    "static/js/2.b3619667.chunk.js.map": "/wgucapstone/static/js/2.b3619667.chunk.js.map",
+    "index.html": "/wgucapstone/index.html",
+    "precache-manifest.ed8ea11a9d13e075f6fa9301ad321917.js": "/wgucapstone/precache-manifest.ed8ea11a9d13e075f6fa9301ad321917.js",
+    "service-worker.js": "/wgucapstone/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/wgucapstone/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.10559651.chunk.css.map": "/wgucapstone/static/css/main.10559651.chunk.css.map",
+    "static/js/2.b3619667.chunk.js.LICENSE.txt": "/wgucapstone/static/js/2.b3619667.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7bc8fd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b3619667.chunk.js",
+    "static/css/main.10559651.chunk.css",
+    "static/js/main.10ecdef9.chunk.js"
+  ]
+}
